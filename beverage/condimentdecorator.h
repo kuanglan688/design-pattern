@@ -1,11 +1,13 @@
 #ifndef CONDIMENTDECOTAROE_H
 #define CONDIMENTDECOTAROE_H
 
-
-class CondimentDecotaroe : public Beverage
+#include "beverage.h"
+class CondimentDecorator : public Beverage
 {
 public:
-    CondimentDecotaroe();
+    CondimentDecorator(Beverage *b);
+protected:
+    Beverage *__beverage;
 };
 
 #endif // CONDIMENTDECOTAROE_H

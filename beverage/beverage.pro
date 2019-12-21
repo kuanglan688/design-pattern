@@ -4,4 +4,14 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+        beverage.cpp \
+        condimentdecorator.cpp \
+        darkroast.cpp \
+        milk.cpp \
+
+HEADERS +=\
+        beverage.h \
+        condimentdecorator.h \
+        darkroast.h \
+        milk.h \

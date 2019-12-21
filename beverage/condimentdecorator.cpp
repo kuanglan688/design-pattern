@@ -1,6 +1,6 @@
-#include "condimentdecotaroe.h"
+#include "condimentdecorator.h"
 
-CondimentDecotaroe::CondimentDecotaroe()
+CondimentDecorator::CondimentDecorator(Beverage *b)
 {
-
+    this->__beverage = b;
 }
