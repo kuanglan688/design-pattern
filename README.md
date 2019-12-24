@@ -7,3 +7,6 @@ pizza-simple 简单工厂 <br>
 pizza 工厂模式 <br>
 pizza-sbstract 抽象工厂模式 <br>
 Chocolate 单例模式 <br>
+RemoteControl 命令模式 <br>
+turkey 适配器模式 <br>
+HomeTheaterFacade 外观模式 <br>
