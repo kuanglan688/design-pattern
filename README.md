@@ -10,3 +10,4 @@ Chocolate 单例模式 <br>
 RemoteControl 命令模式 <br>
 turkey 适配器模式 <br>
 HomeTheaterFacade 外观模式 <br>
+coffinebeverage 模板方法模式 <br>
