@@ -12,4 +12,5 @@ turkey 适配器模式 <br>
 HomeTheaterFacade 外观模式 <br>
 coffinebeverage 模板方法模式 <br>
 restaurant 迭代器模式 <br>
+gumballmachine 状态模式 <br>
 
